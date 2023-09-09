@@ -1,0 +1,37 @@
+<!-- 
+Online HTML, CSS and JavaScript editor to run code online.
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Browser</title>
+</head>
+
+<body>
+  <h1>
+    My Persional info
+  </h1>
+  <p>
+    Họ tên : Nguyễn Văn Nghĩa<br>
+    Mssv : 46.01.104.119<br>
+    <img src = "https://scontent.fsgn13-3.fna.fbcdn.net/v/t39.30808-6/361650242_2479291068907490_67349754107005656_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=D1E8b9fggg8AX-LR1ui&_nc_ht=scontent.fsgn13-3.fna&oh=00_AfCF4oO2Ze-HU5F0enY37dMNzUZswjiKQqmU9PlcRTWTKg&oe=6500DE66"><br>
+    
+  </p>
+      <ul class="numbered-items" role="list">
+            <li>
+              <h3 class="fs-600 fw-bold">Danh sách môn đã đăng ký</h3> 
+              <b>
+              1. Lập trình web<br>
+              2. xstk<br>
+              3. Quốc phòng<br>
+              4. lic mờ và ứng dụng
+            </b>
+      </ul>
+  <script src="script.js"></script>
+</body>
+
+</html>
